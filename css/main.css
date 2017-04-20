@@ -1,0 +1,13 @@
+.status{
+	/*width: 5%;*/
+	text-align: center;
+}
+
+.ncomplete{
+	color: red;
+}
+
+.complete{
+	color: green;
+}
+
